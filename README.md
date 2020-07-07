@@ -1,3 +1,6 @@
+This is not what I realized. The original author is [yan yan](https://github.com/traveller59), this project provides convenience for everyone to download the spcov1.0 version.
+
+
 # SpConv: PyTorch Spatially Sparse Convolution Library
 
 This is a spatially sparse convolution library like [SparseConvNet](https://github.com/facebookresearch/SparseConvNet) but faster and easy to read. This library provide sparse convolution/transposed, submanifold convolution, inverse convolution and sparse maxpool.
